@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662759141 source:d:\code blocks\find the 3 minimum values\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
